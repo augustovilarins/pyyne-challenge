@@ -1,4 +1,4 @@
-# Project README
+# README
 
 This project is a software solution for retrieving bank account balances and transactions from multiple banks. It provides a `BankController` class that serves as the entry point for accessing bank account data. The controller interacts with various integration modules, each responsible for fetching data from a specific bank.
 
